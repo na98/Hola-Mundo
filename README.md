@@ -2,6 +2,7 @@
 Simulación de procesos financieros
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 *BESOS**BESOS* 
 *BESOS*.....*BESOS* 
 *BESOS*.......*BESOS* 
@@ -55,6 +56,8 @@ Simulación de procesos financieros
 =======
 >>>>>>> parent of b88ed1a... Perro Pupy
 =======
+=======
+>>>>>>> parent of c6686d9... Primer cambio
 El perro Puppy
 
 ______________________$$$$$$$$
@@ -108,4 +111,7 @@ _____$$__$$__$$__$$_$______________________$$__________$$
 ______$$$$__$___$__$$______________________$$____________$
 _______$$___$___$__$________________________$$_$__$$__$$__$
 _________$$$$$$$$$$__________________________$$_$_$$$$$$$$
+<<<<<<< HEAD
+>>>>>>> parent of c6686d9... Primer cambio
+=======
 >>>>>>> parent of c6686d9... Primer cambio
