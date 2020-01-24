@@ -1,5 +1,6 @@
 # Hola-Mundo
 Simulación de procesos financieros
+<<<<<<< HEAD
 *BESOS**BESOS* 
 *BESOS*.....*BESOS* 
 *BESOS*.......*BESOS* 
@@ -50,3 +51,5 @@ Simulación de procesos financieros
 .*BESOS*.......*BESOS* 
 ...*BESOS*...*BESOS* 
 ...........*BESOS
+=======
+>>>>>>> parent of b88ed1a... Perro Pupy
